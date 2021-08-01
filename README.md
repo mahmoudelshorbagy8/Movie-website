@@ -1,2 +1,2 @@
 # Movie-website
-responsive  website use html css js 
+Responsive  website use html css js 
